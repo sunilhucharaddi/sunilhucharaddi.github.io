@@ -4,4 +4,4 @@
 
 ## Welcome to my blog!!
 
-Follow me on twitter [link to fast.ai](https://twitter.com/sunilhucharaddi).
+Follow me on twitter [sunilhucharaddi](https://twitter.com/sunilhucharaddi).
