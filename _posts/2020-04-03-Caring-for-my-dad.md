@@ -10,3 +10,6 @@ I had no real experience of healthcare system in place in India until this week.
 There are different level of care at hospitals according to how much you want to shell out. The hospital we(dad and I) chose has four offerings not considering the free ward/scheme ward which costs little but has very poor care. The following image is from the hospital website advertising their facilities.
 
 ![](/images/hospital_wards.png "Hospital facilities")
+
+## Caring for Parents
+I know this is a cliche but I'll say it any way. Caring for my dad gave me so much satisfaction of being there when he needed me. These 10 days were my bonding period with dad. Caring for your parents make you so close to them and its the first time the dependency is reversed. This dynamics makes it interesting, you see your parent suffer for the first time its hearbraking and moving at the same time. My dad tried to avoid taking my help as much as possible like he does when he's at home and sometimes he was worried more about my boredom than his health. I had to lie to him that I liked the solitude of the hspital and I could get some reading done which I think even he was a lie.
