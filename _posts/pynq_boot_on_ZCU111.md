@@ -1,4 +1,4 @@
-# **Bootinmg PYNQ on ZCU111**
+# **Booting PYNQ on ZCU111**
 - download  ZCU111 pynq image from [here](http://www.pynq.io/board.html)
 - extract the Zip file to get a .img image file
 ## For windows:
