@@ -17,4 +17,4 @@
 ## reference
 - [PYNQ RFsoc workshop](https://github.com/Xilinx/PYNQ_RFSOC_Workshop)
 ## debug problems
-- if write fails while writing the image format the sd card and clear the partitions to make sure the entire disk space is avilabe and try writing again.
+- if write fails while writing the image. Format the sd card and clear the partitions to make sure the entire disk space is avilabe and try writing again.
