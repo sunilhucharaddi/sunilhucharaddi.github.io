@@ -10,7 +10,7 @@
 - Run "Disks" from your dash(search disks in ubuntu). Then from "Disks" menu select "Attach disk image...":
 ## boot
 - after burning the imagage eject the sd card and and insert in the sd card slot(make sure the sw configuration and the power is off)
-- connect the lan of board to the post of the host computer and connect the host to the lan
+- connect the LAN of board to the port of the host computer and connect the host to the local LAN
 - after this turn on the board and your device will boot
 - check the ip using **ifconfig** command in the terminal
 - to get into the board follow [this](https://www.youtube.com/watch?v=PaQBQkDZaks)
